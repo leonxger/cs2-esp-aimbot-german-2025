@@ -4,6 +4,9 @@
 
 CS2 Multihack ist ein Beispielprojekt, das zeigt, wie man ein transparentes Overlay für ein Spiel erstellt, einschließlich ESP (Anzeige von Spielerinformationen) und einem Aimbot, der automatisch auf Gegner zielt. Der Code ist ausführlich kommentiert, sodass auch Anfänger im Bereich Game Hacking und Programmierung ohne tiefe mathematische Vorkenntnisse nachvollziehen können, wie die einzelnen Berechnungen ablaufen.
 
+Der Code basiert auf der wundervollen Videoreihe des Youtubers "swedz c#"
+https://www.youtube.com/watch?v=0Fjh7Y4aYxo&list=PLTFAYsPdUBH3AfVHujOe94rdcAI2KCQsd
+
 ---
 
 ## Inhaltsverzeichnis
