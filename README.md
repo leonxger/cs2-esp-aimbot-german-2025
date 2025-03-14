@@ -63,8 +63,7 @@ https://www.youtube.com/watch?v=0Fjh7Y4aYxo&list=PLTFAYsPdUBH3AfVHujOe94rdcAI2KC
 Repository klonen:
 
 ```bash
-git clone https://github.com/dein-github-benutzername/CS2MULTI.git
-cd CS2MULTI
+git clone https://github.com/leonxger/cs2-esp-aimbot-german-2025
 ```
 
 Projekt bauen:
